@@ -16,15 +16,15 @@ Postman
 
 **Getting Started**
 
-**Import Collection:**
+**1. Import Collection:**
 
 Import reqres-postman-collection.json into Postman.
 
-**Run Requests:**
+**2. Run Requests:**
 
 Use the collection to run GET, POST, PUT, PATCH and DELETE requests.
 
-**Validate Responses:** 
+**3. Validate Responses:** 
 
 Use Postman to validate status codes and response data.
 
